@@ -1,0 +1,6 @@
+.env
+
+.mypy_cache/
+.pycharm/
+venv/
+__pycache__/
